@@ -76,6 +76,36 @@ function Buscar(texto){
     }else if(text == "Negro"){
         Swal.fire("Su traducción:<br><br>Ìik");
 
+    }else if(text == "Uno"){
+        Swal.fire("Su traducción:<br><br>Jun");
+
+    }else if(text == "Dos"){
+        Swal.fire("Su traducción:<br><br>Cheb");
+    
+    }else if(text == "Tres"){
+        Swal.fire("Su traducción:<br><br>Oxeb");
+
+    }else if(text == "Cuatro"){
+        Swal.fire("Su traducción:<br><br>Chaneb");
+
+    }else if(text == "Cinco"){
+        Swal.fire("Su traducción:<br><br>Jo'eb");
+
+    }else if(text == "Seis"){
+        Swal.fire("Su traducción:<br><br>Wakeb");
+
+    }else if(text == "Siete"){
+        Swal.fire("Su traducción:<br><br>Jukeb");
+    
+    }else if(text == "Ocho"){
+        Swal.fire("Su traducción:<br><br>Waxakeb");
+
+    }else if(text == "Nueve"){
+        Swal.fire("Su traducción:<br><br>Baluneb");
+
+    }else if(text == "Diez"){
+        Swal.fire("Su traducción:<br><br>Lajuneb");
+        
     }else{
         Swal.fire("<stronge>Lo sentimos mucho, pero esta palabra no esta disponible</stronge>");
         Swal.fire({
